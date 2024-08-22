@@ -1,0 +1,35 @@
+.footer{
+    background-color: black;
+    color: white;
+}
+.footerSec{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 40px;
+}
+ul li{
+    list-style: none;
+}
+
+.reachOut{
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+
+.copyRightSec{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+
+.contCards{
+    
+}
+.contCards .info{
+
+}

@@ -1,0 +1,9 @@
+.restApiTable Table thead tr th{
+    text-align: center;
+}
+
+
+.restApiTable{
+    margin: 0;
+    padding: 20px;   
+}

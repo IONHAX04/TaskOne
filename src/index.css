@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scrollbar-width: none;
+  scroll-behavior: smooth !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  width: 75vw;
+  background-color: white;
+  /* padding: 10px; */
+}
